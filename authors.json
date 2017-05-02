@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "5907deba791e9eac429d8636",
+    "name": "Oliver Christensen",
+    "gender": "male",
+    "email": "oliverchristensen@klugger.com"
+  },
+  {
+    "_id": "5907deba3c7af0b9ca4b13a7",
+    "name": "Gardner Sellers",
+    "gender": "male",
+    "email": "gardnersellers@klugger.com"
+  },
+  {
+    "_id": "5907debad52de9d33a2427ce",
+    "name": "Faye Cleveland",
+    "gender": "female",
+    "email": "fayecleveland@klugger.com"
+  },
+  {
+    "_id": "5907debaaf92f81e503e8ce6",
+    "name": "Hoffman Rojas",
+    "gender": "male",
+    "email": "hoffmanrojas@klugger.com"
+  },
+  {
+    "_id": "5907deba0572c5757ee29038",
+    "name": "Gwendolyn Stanton",
+    "gender": "female",
+    "email": "gwendolynstanton@klugger.com"
+  },
+  {
+    "_id": "5907debaac01faa12bf66422",
+    "name": "Joyner Bailey",
+    "gender": "male",
+    "email": "joynerbailey@klugger.com"
+  }
+]
